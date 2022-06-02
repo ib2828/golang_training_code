@@ -1,6 +1,6 @@
-# 
 
-Ссылка на видеоуроки
-https://www.youtube.com/playlist?list=PLbTTxxr-hMmxZMXsvaE-PozXxktdJ5zLR
+Golang | Все Основы за 4 Часа Для Начинающих
 
-Прогресс
+https://www.youtube.com/watch?v=h0zxh2TPN_I
+
+
